@@ -1,0 +1,20 @@
+.moreButton{
+    margin-left: 200px;
+    margin-top: 10px;
+    position: absolute;
+}
+.image{
+    height: 250px;
+    width:303px;
+    border-radius: 0px 0px 27px 27px;
+    margin: 0;
+}
+.title_post{
+    padding: 10px;
+    padding-left: 30px;
+    position: absolute;
+    color: #fff;
+}
+.cardActions{
+    gap: 100px;
+}
